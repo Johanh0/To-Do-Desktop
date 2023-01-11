@@ -1,0 +1,22 @@
+{
+  "name": "to-do-desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johanh0/To-Do-Desktop.git"
+  },
+  "author": "Johan Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johanh0/To-Do-Desktop/issues"
+  },
+  "homepage": "https://github.com/Johanh0/To-Do-Desktop#readme",
+  "devDependencies": {
+    "electron": "^22.0.1"
+  }
+}
